@@ -1,4 +1,4 @@
-baseURL = 'http://qingsheng.us/'
+baseURL = 'https://qingsheng.us/'
 languageCode = 'en-us'
-title = 'The light into the word'
+title = 'The light into the world'
 theme = 'ananke'
