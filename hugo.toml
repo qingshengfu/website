@@ -1,4 +1,4 @@
 baseURL = 'https://qingsheng.us/'
 languageCode = 'en-us'
 title = 'The light into the world'
-theme = 'diary'
+theme = 'hugo-clarity'
