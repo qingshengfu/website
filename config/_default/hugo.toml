@@ -5,7 +5,7 @@ title = "The Light Into The World"  # Edit directly from config/_default/languag
 #copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 # canonifyurls = true
 
-theme = ["PaperMod"]
+theme = "PaperMod"
 disqusShortname = ""
 
 DefaultContentLanguage = "en"
